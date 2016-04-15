@@ -1,6 +1,22 @@
 {
     "product": {
-        "name": "example glossary",
+        "name": "X",
+        "version": "1.0",
+        "tech_stacks": ["java", "android", "j2ee"],
+        "image": {
+            "url": "images/x/x-android.png",
+            "short_desc": "sksk"
+        },
+        "description": "example glossary",
+        "contacts": {
+            "client": "EMC",
+            "sb_unit": "BU-4"
+        },
+        "platforms": ["android", "ios", "windows", "web"]
+
+    },
+    "product": {
+        "name": "Y",
         "version": "1.0",
         "tech_stacks": ["java", "android", "j2ee"],
         "image": {
@@ -16,7 +32,7 @@
 
     },
     "product": {
-        "name": "example glossary",
+        "name": "Z",
         "version": "1.0",
         "tech_stacks": ["java", "android", "j2ee"],
         "image": {
@@ -32,23 +48,7 @@
 
     },
     "product": {
-        "name": "example glossary",
-        "version": "1.0",
-        "tech_stacks": ["java", "android", "j2ee"],
-        "image": {
-            "url": "sksk",
-            "short_desc": "sksk"
-        },
-        "description": "example glossary",
-        "contacts": {
-            "client": "EMC",
-            "sb_unit": "BU-4"
-        },
-        "platforms": ["android", "ios", "windows", "web"]
-
-    },
-    "product": {
-        "name": "example glossary",
+        "name": "Z2",
         "version": "1.0",
         "tech_stacks": ["java", "android", "j2ee"],
         "image": {
